@@ -1,0 +1,25 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "A web server using the Express.js framework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonycodesnow/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonycodesnow/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Tonycodesnow/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "underscore": "^1.13.1"
+  }
+}
